@@ -1,0 +1,2 @@
+# Distributed CIFAR-10 training in JAX and Flax
+Distributed CIFAR-10 training in JAX and Flax, scaling from local JIT execution to hardware-accelerated SPMD. [Notebook](notebooks/01_distributed_cnn/01_distributed_cnn.ipynb)
