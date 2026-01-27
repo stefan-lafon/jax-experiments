@@ -1,15 +1,15 @@
 ## JAX experiments
-<table>
+<table witdth="100%">
   <thead>
     <tr>
-      <th width="40%"></th>
-      <th width="60%">Notebook</th>
+      <th width="25%"></th>
+      <th width="75%">Notebook</th>
     </tr>
   </thead>
   
   <tr>
     <td align="center">
-      <img src="assets/cifar.png" width="180px" alt="Quantization Drift">
+      <img src="assets/cifar.png" alt="Quantization Drift">
     </td>
     <td valign="top">
       <h3><a href="notebooks/01_distributed_cnn.ipynb">1. Distributed CIFAR-10 training in JAX and Flax</a></h3>
@@ -20,7 +20,7 @@
 
   <tr>
     <td align="center">
-      <img src="assets/newton.png" width="180px">
+      <img src="assets/newton.png">
     </td>
     <td valign="top">
       <h3><a href="notebooks/02_curvature_and_newton_methods.ipynb">2. Newton's method via AutoDiff</a></h3>
@@ -31,7 +31,7 @@
 
   <tr>
     <td align="center">
-      <img src="assets/QAT vs PTQ.png" width="180px">
+      <img src="assets/QAT vs PTQ.png">
     </td>
     <td valign="top">
       <h3><a href="03_Simple_QAT_in_JAX.ipynb">3. QAT vs PTQ in JAX</a></h3>
@@ -40,3 +40,4 @@
     </td>
   </tr>
 </table>
+
